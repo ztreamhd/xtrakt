@@ -1,9 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Asianet News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png |
-https://www.youtube.com/user/asianetnews/live
-
 ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
@@ -31,8 +28,8 @@ https://www.youtube.com/c/madtvgreece/live
 PBS Guam | English | https://pbsguam.org/wp-content/uploads/sites/10/2019/11/pbs-guam-logo.png |
 https://www.youtube.com/user/pbsguam/live
 
-FOX Türkiye | Türk | https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png |
-https://www.youtube.com/user/TVFOX/live
+[TEST] CNN en Español | Español | |
+https://www.youtube.com/c/cnnee/live
 
 ASOT Radio | Music | https://cutewallpaper.org/21/asot-logo/ASOT--Emblems-for-GTA-5-Grand-Theft-Auto-V.png |
 https://www.youtube.com/watch?v=5lMmnfVylEE
@@ -63,3 +60,12 @@ https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 
 KBS Korea | Korean | https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Korean_Broadcasting_System-text_only.svg/245px-Korean_Broadcasting_System-text_only.svg.png | 
 https://www.youtube.com/user/kbsworld/live
+
+Times Now India | English | |
+https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live
+
+Москва 24 | Русский | | 
+https://www.youtube.com/user/infomoscow24/live
+
+WION | English | | 
+https://www.youtube.com/c/WION/live
