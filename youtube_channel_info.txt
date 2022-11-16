@@ -11,7 +11,7 @@ Euronews Español | Español | https://upload.wikimedia.org/wikipedia/commons/7/
 https://www.youtube.com/user/euronewses/live
 
 Canal Sur | Español | https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalSurHD.png |
-https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
+https://www.youtube.com/user/canalsur/live
 
 IB3 | Català | https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png |
 https://www.youtube.com/user/ib3/live
