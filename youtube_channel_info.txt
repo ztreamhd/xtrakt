@@ -19,7 +19,7 @@ https://www.youtube.com/user/ib3/live
 TV Canaria | Español | https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVC.png | 
 https://www.youtube.com/user/TelevisionCanaria/live
 
-24 Horas | Español | https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png |
+24 Horas (FHD) | Español | https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png |
 https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
 
 MAD TV Greece | Greek | https://mad.tv/wp-content/uploads/2020/06/mad-dark.png |
