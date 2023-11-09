@@ -46,8 +46,8 @@ https://www.youtube.com/user/myetv97/live
 CGTN News | English | https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png |
 https://www.youtube.com/watch?v=UP5z9dRC6RU
 
-RT Europe | English | |
-https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live
+WELT | Deutsch | |
+https://www.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA/live
 
 RT Español | Español | https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTesp.jpg |
 https://www.youtube.com/c/RTenEspa%C3%B1ol/live
