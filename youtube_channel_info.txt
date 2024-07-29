@@ -20,7 +20,7 @@ TV Canaria | Español | https://raw.githubusercontent.com/ztreamhd/FullTVService
 https://www.youtube.com/user/TelevisionCanaria/live
 
 24 Horas (FHD) | Español | https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png |
-https://www.youtube.com/watch?v=mzdfGCdNSHQ
+https://www.youtube.com/watch?v=NqRP08sCG_w
 
 MAD TV Greece | Greek | https://mad.tv/wp-content/uploads/2020/06/mad-dark.png |
 https://www.youtube.com/c/madtvgreece/live
@@ -32,7 +32,7 @@ TRT World | English | |
 https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
 
 ASOT Radio | Music | https://cutewallpaper.org/21/asot-logo/ASOT--Emblems-for-GTA-5-Grand-Theft-Auto-V.png |
-https://www.youtube.com/watch?v=5lMmnfVylEE
+https://www.youtube.com/watch?v=NGsjwNsXE0w
 
 Arirang | English | |
 https://www.youtube.com/user/arirang/live
@@ -44,7 +44,7 @@ ETV Guadeloupe | Français | |
 https://www.youtube.com/user/myetv97/live
 
 CGTN News | English | https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png |
-https://www.youtube.com/watch?v=UP5z9dRC6RU
+https://www.youtube.com/watch?v=UkcHAbq9PVQ
 
 WELT | Deutsch | |
 https://www.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA/live
@@ -92,7 +92,7 @@ OndaTV Fuerteventura | Español | |
 https://www.youtube.com/channel/UCCG7Yf3qATImYjWc3iDfzeg/live
 
 DZRH 4K | Filipino | |
-https://www.youtube.com/watch?v=rlOW_ZFwK68
+https://www.youtube.com/channel/UCcTiBX8js_djhSSlmJRI99A/live
 
 UA Україна | Українська | |
 https://www.youtube.com/watch?v=zYTZHm1gRiM
@@ -101,10 +101,10 @@ Al Aoula Maroc | عَرَبِيّ | |
 https://www.youtube.com/channel/UC1X2nRRWPptr88W_N9RWS1g/live
 
 SBT Brasil | Português | |
-https://www.youtube.com/watch?v=RZgxuQ0e5zc
+https://www.youtube.com/channel/UCyXRmWbmyB7TSJekXsPCZKQ/live
 
 Belsat | беларуская | |
-https://www.youtube.com/watch?v=qtsCQgd4_08
+https://www.youtube.com/watch?v=bMZ84aiptUw
 
 Canal Red | Español | |
 https://www.youtube.com/channel/UCky112obBMG68Nw5MrSNNPA/live
