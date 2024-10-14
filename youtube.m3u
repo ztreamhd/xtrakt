@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Republic World (India)
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728918770/ei/keAMZ4qoPIfeybgPpdiIwAw/ip/40.116.86.224/id/xSZkUefF09A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303813/txs/51303813%2C51303814%2C51303815%2C51303816/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxdmPFIyyeaB5aI6iupiz7PWcTl9r0LsjEut3Ztx3UKi1si3PVNC9IjOw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760%2C51312687/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAItiML12GPT2Ff3EkRL2Oap2LF7NErV89P3d_fRA-9nqAiAjNM02p4v4krp22YlfX7pRb-IWiqXiBfSdY-_ACbk4DQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Español" tvg-logo="" tvg-id="", France24
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
