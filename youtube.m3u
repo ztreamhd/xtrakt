@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://cutewallpaper.org/21/asot-logo/ASOT--Emblems-for-GTA-5-Grand-Theft-Auto-V.png" tvg-id="", ASOT Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746306672/ei/EDIWaLL4D4asir4P6ZWLeA/ip/20.25.192.66/id/NGsjwNsXE0w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAb8D1cz60rbEyxehHL2UPajSo5yT34k8QFbsgAJjH51JP15vQKqFZfjzFs5JzuFwEuRaS92X6E_/spc/wk1kZqaz-TKm9TCROJDty9kkQAjfIM4nWknmmmSUceNTsO4r4EiYeGqvduEFwFg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgei2xRKSiL0Ui7099jTrrTbIDfGohzCQPJkU1Y842BWcCIQDOI7T7Hj2YoHVGCI5Hu_tyb4OkXD7KLsvZK4F2Vod9YA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Arirang
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
