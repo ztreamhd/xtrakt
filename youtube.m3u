@@ -111,7 +111,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Português" tvg-logo="" tvg-id="", SBT Brasil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751847417/ei/mb1qaPbYMIrSkNAPwPbaoAk/ip/52.165.152.207/id/iwlpJpk2dG0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNh1KnCFKJ_EC06lOs_K4ge_QPHiiNgj4Hz4l4k6wkzP8356_D-YUejpsE8Ap2WNiyBiVtIaXOE/spc/l3OVKW3PMUV7HIE8UxYvn-3CEPgJ95TZnBQCKfA0ml9Yek3wx7L1MTMq_LDqJDAx4Zk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYcKgKW1lFMSXfpGUDISbXS0jxSJzds4WB809IgUANQgCIQDIHunUGiSyphRkhQh7lLoHl4Q_EedmucUFEhpnrJ2pGA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Беларуская" tvg-logo="" tvg-id="", Belsat
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
