@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Times Now India
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755130711/ei/99acaLP7NfmP2_gPw5mc4Qk/ip/52.173.182.165/id/GgEtNKyf5AY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMZH1LkCqvkQcDQ1OV20hNDonkKvZ-LHiES1O_z-Qfgf28KAB04_FidsjV8yGFib0nlzYJsvDb-/spc/l3OVKTgEJLieexSKLI5_QuvzEtlVBcMoYnmPsdq_0yR5MmYoRSQdMndZOpR4--4eHr8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIrdHRExGfTg_JbV-wUdhbECDNGCxz4grgbNjjftvh2HAiAWxg28yl0NrT4-B5zzE40P794kpt2MvEPTTAkbxKYFGw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Русский" tvg-logo="" tvg-id="", Москва 24
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
