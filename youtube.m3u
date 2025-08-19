@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://cutewallpaper.org/21/asot-logo/ASOT--Emblems-for-GTA-5-Grand-Theft-Auto-V.png" tvg-id="", ASOT Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755596278/ei/lvGjaI3FNO-okucPhLCGwQg/ip/20.55.223.181/id/NGsjwNsXE0w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548066/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOwdc8OV7eASVaZxKe9XeaXbitUsdRlUEd2DF6TRZRqRV8SH3twlSwN1uZfsll6d3n8NUE1qgoz/spc/l3OVKUTwTiVwDj1SNCLWnZszfkhLi_fxeQ1aXophuJYcXJ5N11LTOj5IbPRxf_r_4PY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565115%2C51565682/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKZ-Qse5HpuVNJRLEv6h5sQJ-YfcKFAgunGfv8X8RDfCAiAyLL89lOgRujvxtL6xE9lL8TOjtVt-2zfXGsdnpmZRxA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Arirang
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
