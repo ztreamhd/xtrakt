@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Arirang
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755832274/ei/counaLn9DezIkucPjt7G4AM/ip/57.154.243.162/id/CJVBX7KI5nU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMReccB72L4ZMa2Rjm7yzNno_3u8f8Dn6WUPrei1PdUOhWNTN9qC08gjHU5yXyLNjnAzw8IwSNm/spc/l3OVKfXotSI369BlrwVLhpkW0ne_otkhcOoCPjRnrOSrWCmmh5tm4P0rhe_fKCFpIFw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFCwVO_LMmhTzREv2kiDws2g0_CRE2r8u1T9Nn2pS3ngCIB673RPJKIBVV3M5kZU3ECeBU0f6hC0EncPNOMZ7cI8f/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Français" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/franceinfo_transparent.png" tvg-id="", Franceinfo
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
