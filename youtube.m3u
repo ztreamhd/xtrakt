@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Français" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/franceinfo_transparent.png" tvg-id="", Franceinfo
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756405469/ei/fUqwaOWuFYyc2_gPp6m96Qs/ip/64.236.134.54/id/Z-Nwo-ypKtM.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLOq9FZzkEv5bVcv8SyyvgaNoKlZxYnA7l8St0MlPJSY74UQaFmmng_H30quwTBmzqiFH9_0vUyk/spc/l3OVKaUAxLDIfUo2NVEef7Yb_xB3WB_nFZ3LRgnZIsVmENUPlNnm6_PguxjK8VbkisA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgObvxRfxTeI2iWMfypAwSr5Dt-e5gOubSh31xiA7UDG4CIHn1RxuL1WoJlmgtUt1KG3ezJVxODr8mMIeetadheyUI/file/index.m3u8
 
 #EXTINF:-1 group-title="Français" tvg-logo="" tvg-id="", ETV Guadeloupe
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
