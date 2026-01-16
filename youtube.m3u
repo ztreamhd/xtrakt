@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Español" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVC.png" tvg-id="", TV Canaria
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768598161/ei/MVZqaaPiJ9eylu8Ps5ys6AY/ip/64.236.134.21/id/6LlZXt8nk4s.940/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pTCGhV4pvd9ms9ISwLQGBLROZ8nhsaEmVc_iqvnAj7mgTCuBkYpi7zzdDZvcr5IQqM6OvOF2C9/spc/q5xjPEgSLeoSBq-NMc0KVFjrJxdCn7rTvgngdAPpMCkCbERrN-yDRDls0huCvUq4WQ4/vprv/1/go/1/ns/JeZdv63X6GceMFWfWSzqR7oR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626154/dover/11/n/rkqMadperCXIQKcFR-A/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLb2E9sgg3t_lfiDBsfcnTcZtjSVY__n50rDfTdTgVbMCIQCRL1vNi-BVtiWVdAWR0FCoI7C2PoKGWHwXc-XMTxCsOw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Español" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png" tvg-id="", 24 Horas (FHD)
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
