@@ -2,7 +2,7 @@
 
 #########################################################################
 #      YouTube to M3U8 Grabber                                         #
-#      Updated to use yt-dlp for reliable stream extraction            #
+#      Uses yt-dlp with Deno JS runtime + cookie support               #
 #########################################################################
 
 
