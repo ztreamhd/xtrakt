@@ -3,11 +3,9 @@ name: M3U generator
 on:
   schedule:
     - cron: '0 0/3 * * *'
-
   pull_request:
     branches:
       - main
-
   workflow_dispatch:
 
 jobs:
@@ -22,13 +20,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install Deno (JS runtime for yt-dlp)
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install yt-dlp requests
 
-      - name: Verify yt-dlp installation
-        run: yt-dlp --version
+      - name: Verify installations
+        run: |
+          yt-dlp --version
+          deno --version
 
       - name: Configure git
         run: |
@@ -36,9 +41,18 @@ jobs:
           git config --global user.name "GitHub Action"
 
       - name: Run script
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
         run: |
+          if [ -n "$YT_COOKIES" ]; then
+            echo "$YT_COOKIES" > /tmp/cookies.txt
+          fi
           chmod +x autorun.sh
           ./autorun.sh
+
+      - name: Cleanup
+        run: |
+          rm -f /tmp/cookies.txt
 
       - name: Commit and push
         run: |
