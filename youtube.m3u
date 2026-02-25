@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772016421/ei/xX6eabGdBbKykucPv7qRkAw/ip/68.154.54.37/id/EvIZaz16DI0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51757982/txs/51757982%2C51757983%2C51757984%2C51757985/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AVNa5-wyzv5gwxSuxievzveVV2L2Jfh2dn8JWtTGw5dyCOzeKjdoFQY9wSviiDZYTXBPlVPqlhIAVLcb/spc/6dlaFN2xx4kDtz8_l-6XQnBTF6MZAeyL1nobXn_wp_F8c5kaEdQ9s4DQ3L_vmHFuPC_aH7RKlAc/vprv/1/go/1/ns/UcoM0DC86NBj6NZTNbgE2EYS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/11/n/By8PTgFb3PKl-CSW7t/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAIfcTjvPpcMFQ-y_5fejHL2quQmbVQOw6dAHRvjE5yyeAiBSmVLB78wxPCwEwljKeqQZeFtHwMW0eU09xcKEey-7ZQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews English
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
