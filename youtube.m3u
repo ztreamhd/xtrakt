@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Español
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773276176/ei/sLexadrzNuG1ir4P8O-3uAU/ip/64.236.187.249/id/O9mOtdZ-nSk.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-yd2Re39R52wTvIkIr5M0N8QMA-7oStGxPcl4gg75S-PCriraRPCgYEi6M_Q0SkA126RXSkKwDU/spc/6dlaFGuyMh0rt6zq_e1S8YnQVGs7oh3gaJH0c73AMoXm5VnccxchkBBfHnriunsDG0pqYQ/vprv/1/go/1/ns/QJzR-mlr7Mwf1PAuc_q9dUkT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/ZPPF_YuY9a0u1x6Id0p/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgbxrGQYfrWsvjImlxvI2AHRVwz4y4EMcpf6SBzN3eyjICIBjVUQeWb7ceb4XH1Rxq7oubLniXK6ci_LdsUromrS0e/file/index.m3u8
 
 #EXTINF:-1 group-title="Español" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalSurHD.png" tvg-id="", Canal Sur
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Español" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVC.png" tvg-id="", TV Canaria
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773265181/ei/vYyxaa7RGKK0ir4P6faw2Qk/ip/64.236.201.53/id/ucRYG4XFp6w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774349/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-xoy39GqF1xTsTZ2xB9Naf97DHd8R3pAnW8MW6neNv16ekeLiM2kWU4RB3mb6YT08JarM6FA2_g/spc/6dlaFHuFE8Osa3fKbTraXW91A1ZBLIHLKpnE0uE6HzsnnuwwuokcGFxny9lOar5pFTf8uQ/vprv/1/go/1/ns/lICDhI5d86S3OObmslgoMcYT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/NbuSN7nfDS486DR1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgA6VyJ9V2SR0XXcaQ7nIXERh8ApVQ5mPqosENEV4hOVICIQDgqIbCAHzWm8RVB_Md0wD98pv4sZ-kMTjolN_nHG59Rg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Español" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png" tvg-id="", 24 Horas (FHD)
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://cutewallpaper.org/21/asot-logo/ASOT--Emblems-for-GTA-5-Grand-Theft-Auto-V.png" tvg-id="", ASOT Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773265187/ei/w4yxafSOKLjoybgP8byN8Ao/ip/64.236.201.53/id/NGsjwNsXE0w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-zj0tw3sF33b8BNmyGDLkuZwze5Vk9K2dwzHINNFdYcBG8VnQaK-aItdk_ZbbJ_4j_bRiHfHuM7/spc/6dlaFL5pHhFgsVf7gR52m0VYDUQaGF2UHdlzt3zpUnfWBPayLBE_vyf6OSST3K8NxbI93g/vprv/1/go/1/ns/DQs_oTZOnzAim9NsEWugsBoT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/3SMtR1UWp4eM6xtF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgZFS4zOLhuREXKWuSdxzuhOL7ZgGk3pAuNzUlXM58ySUCIQCVgMsdALDMAWpojaVFJ26aoyQbYodHTA5O3aFVZfUjZg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Arirang
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
