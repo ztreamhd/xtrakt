@@ -102,7 +102,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Filipino" tvg-logo="" tvg-id="", DZRH 4K
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775522726/ei/Rf_TabayONyY-coPjOqB0QQ/ip/135.232.176.177/id/6Nyc4xIUraQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773318/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGJ0HmsB2kLbj5tp5ZnTNkg6Qy10UALKTRd0wjHAYccqYTrYrwYylNS0im4y3sBvISjC6C8KTY_T/spc/jlWavRHWBhaxGe3DsPDC9ft5dPWEMVksAAHtz-e-uaFZ_H5dRXq_gSO2-vwXy5gU8iecNg/vprv/1/go/1/ns/M4z1lt15AUWPFGe8RZrbp88U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/Me8Txj0LiZ0cSyazD/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAKPbng5H3lulhfAj7CIbJ4AVdrrkh-gDa2mKh0ifUEcFAiB7qTSIHTBb0_b9kWsuCL_DNWr7zVQOawOeNmV6Ax9OfQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Українська" tvg-logo="" tvg-id="", UA Україна
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
