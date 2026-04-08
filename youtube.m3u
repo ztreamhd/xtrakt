@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Korean_Broadcasting_System-text_only.svg/245px-Korean_Broadcasting_System-text_only.svg.png" tvg-id="", KBS Korea
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775686178/ei/wn3WaZSUFv3oybgPodrtwA4/ip/52.165.251.241/id/6yHvX0VWCJQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLehnnCdrN9YisFxvIQDq3tAATivtW8XR1rfpMkHFjeJt856J8sx7T7TL6Y8FA1CmvHIoxm8MWU/spc/jlWavV5FDQIwArliC8OdYrJ8RipyPVVDMi-oE3Pid2yqAGL4l4R1dubUMMOpx4xCla35_w/vprv/1/go/1/ns/URX-koW5Aip6NqfDqd3M4YAU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51869322/dover/11/n/oIhdLIO45O6zBvrM/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgLHCT1cKtaCPDMebdf2wTUs_cOX5OcAQViL44aPQoFTICIDx75ZVfw5UN6WirvXRPfX3Rcht7dL5amolUXR7V3TBx/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Times Now India
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
